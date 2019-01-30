@@ -1,14 +1,14 @@
-## deep_rl
+# Deep Reinforcement Learning
 Collection of my DRL projects
 
-# Currently Completed:
+### Currently Completed:
 
 Double DQN (Atarti Breakout)
 
-# To Be Trained:
+### To Be Trained:
 
 None
 
-# In Progress:
+### In Progress:
 
 None
