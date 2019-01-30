@@ -3,11 +3,11 @@ Collection of my DRL projects
 
 ### Currently Completed:
 
-Double DQN (Atarti Breakout)
+None
 
 ### To Be Trained:
 
-None
+Double DQN (Atari Breakout)
 
 ### In Progress:
 
