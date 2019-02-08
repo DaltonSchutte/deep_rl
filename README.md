@@ -7,8 +7,9 @@ None
 
 ### To Be Trained:
 
-Double DQN (Atari Breakout)
+None
 
 ### In Progress:
 
-None
+Double DQN (Breakout)
+  -Training on GPU revealed that the agent was failing to learn. Redesign in progress.
