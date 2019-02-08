@@ -12,4 +12,5 @@ None
 ### In Progress:
 
 Double DQN (Breakout)
-  -Training on GPU revealed that the agent was failing to learn. Redesign in progress.
+
+  -Training on GPU revealed that the model was not converging and thus the agent was not learning. Redesign in progress.
