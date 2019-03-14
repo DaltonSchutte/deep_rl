@@ -4,6 +4,7 @@ Collection of my DRL projects
 ### Currently Completed:
 
 Temporal Difference Methods/td_lambda
+
 Various Warm Ups (Not necessarily 'deep' methods)
 
 ### To Be Trained:
