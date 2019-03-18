@@ -3,9 +3,11 @@ Collection of my DRL projects
 
 ### Currently Completed:
 
-Temporal Difference Methods/td_lambda
+dqn/dqn_pytorch (CartPole)
 
-Various Warm Ups (Not necessarily 'deep' methods)
+Temporal Difference Methods/td_lambda (CartPole)
+
+Various Warm Ups (Not necessarily 'deep' methods) (CartPole)
 
 ### To Be Trained:
 
@@ -13,6 +15,4 @@ None
 
 ### In Progress:
 
-Double DQN (Breakout)
-
-  -Training on GPU revealed that the model was not converging and thus the agent was not learning. Redesign in progress.
+None
