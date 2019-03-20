@@ -1,6 +1,10 @@
 # Deep Reinforcement Learning
 Collection of my DRL projects
 
+Name (environment) [folder]
+
+---
+
 ### Currently Completed:
 
 dqn_pytorch (CartPole) [dqn]
