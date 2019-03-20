@@ -3,11 +3,11 @@ Collection of my DRL projects
 
 ### Currently Completed:
 
-dqn/dqn_pytorch (CartPole)
+dqn_pytorch (CartPole) [dqn]
 
-Temporal Difference Methods/td_lambda (CartPole)
+td_lambda (CartPole) [Temporal Difference Methods]
 
-Various Warm Ups (Not necessarily 'deep' methods) (CartPole)
+Various Warm Ups (Not necessarily 'deep' methods) (CartPole) [Warm Up]
 
 ### To Be Trained:
 
@@ -15,4 +15,4 @@ None
 
 ### In Progress:
 
-None
+double_dqn (CartPole) [dqn]
