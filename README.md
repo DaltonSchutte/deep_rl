@@ -3,6 +3,8 @@ Collection of my DRL projects
 
 Name (environment) [folder]
 
+If the .ipynb file won't render in Github, try plugging the URL into https://nbviewer.jupyter.org
+
 ---
 
 ### Currently Completed:
