@@ -11,6 +11,7 @@ def plot_running_avg(rewards, window=100):
         rewards(list):= list of episodic rewards
         window(int):= size of the window the average will be computed over
     """
+    rewards = np.array(rewards)
     N = len(rewards)
     running_avg = np.empty(N)
     
