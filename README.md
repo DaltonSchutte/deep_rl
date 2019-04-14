@@ -17,8 +17,8 @@ Various Warm Ups (Not necessarily 'deep' methods) (CartPole) [Warm Up]
 
 ### To Be Trained:
 
-None
+double_dqn (CartPole) [dqn]
 
 ### In Progress:
 
-double_dqn (CartPole) [dqn]
+None
