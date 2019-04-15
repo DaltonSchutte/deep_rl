@@ -11,13 +11,15 @@ If the .ipynb file won't render in Github, try plugging the URL into https://nbv
 
 dqn_pytorch (CartPole) [dqn]
 
+double_dqn (CartPole) [dqn]
+
 td_lambda (CartPole) [Temporal Difference Methods]
 
 Various Warm Ups (Not necessarily 'deep' methods) (CartPole) [Warm Up]
 
 ### To Be Trained:
 
-double_dqn (CartPole) [dqn]
+None
 
 ### In Progress:
 
