@@ -24,3 +24,7 @@ None
 ### In Progress:
 
 None
+
+### Redo using Colab and Atari env:
+
+dqn_pytorch (Breakout) [dqn]
