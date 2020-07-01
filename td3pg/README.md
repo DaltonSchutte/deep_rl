@@ -18,7 +18,10 @@ To install the Unity environment locally:
     -Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 	3) Unzip the file in the root directory of the repository.
 
-## Training the agent
+## Training the Agent
 Training the agent simply requires executing all of the cells in the notebook sequentially. Any hyperparameters may be changed if so desired prior to running a cell. Hyperparameters for the TD3PG agent must be changed in the agent.py file.
 
 At the end of training a .pth file containing the weights for the agent models and a graph of the scores will be saved to the root directory.
+
+## Viewing a Trained Agent
+An instance of the Agent class can be instantiated and the state dict for each model attribute loaded from the corresponding pth weight file in the weights directory. The Agent can then be used to interact with the Unity Reacher environment to control 20 arms simultaneously.
